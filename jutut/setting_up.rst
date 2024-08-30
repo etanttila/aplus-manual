@@ -2,7 +2,7 @@ Setting up Jutut
 ================
 
 Creating feedback questionnaires
----------------------------------
+--------------------------------
 
 If you have feedback questionnaires already in your material, you can use them directly.
 See the chapter :doc:`questionnaires </questionnaires/questionnaires>` for general instructions how to create questionnaires.
